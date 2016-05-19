@@ -1,1 +1,6 @@
 D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorld\bin\Debug\MyHelloWorld.exe.config
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorld\bin\Debug\MyHelloWorld.exe
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorld\bin\Debug\MyHelloWorld.pdb
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorld\obj\Debug\MyHelloWorld.csprojResolveAssemblyReference.cache
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorld\obj\Debug\MyHelloWorld.exe
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorld\obj\Debug\MyHelloWorld.pdb
