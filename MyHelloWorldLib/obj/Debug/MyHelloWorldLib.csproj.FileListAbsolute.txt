@@ -1,0 +1,5 @@
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldLib\bin\Debug\MyHelloWorldLib.dll
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldLib\bin\Debug\MyHelloWorldLib.pdb
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldLib\obj\Debug\MyHelloWorldLib.csprojResolveAssemblyReference.cache
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldLib\obj\Debug\MyHelloWorldLib.dll
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldLib\obj\Debug\MyHelloWorldLib.pdb

@@ -3,7 +3,7 @@ D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\obj\Debug\MyHelloWorldTe
 D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\MyHelloWorldTest.dll
 D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\MyHelloWorldTest.pdb
 D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\MyHelloWorld.exe
-D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\MyHelloWorld.pdb
 D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\obj\Debug\MyHelloWorldTest.pdb
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\MyHelloWorldLib.dll
+D:\Pradeep\Learning\Jenkins\HelloWorld\MyHelloWorldTest\bin\Debug\MyHelloWorldLib.pdb

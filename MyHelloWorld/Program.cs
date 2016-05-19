@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyHelloWorldLib;
 
 namespace MyHelloWorld
 {
@@ -10,11 +11,9 @@ namespace MyHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SayHello());
+            Console.WriteLine(HelloLib.SayHello()); 
         }
-        public static string SayHello() {
-            return "Hello World";
-        }
+      
 
     }
 }
